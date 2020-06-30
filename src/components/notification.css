@@ -1,0 +1,5 @@
+.error {
+    border: 2px solid green;
+    background-color: gray;
+    max-width: 25vw;
+}
